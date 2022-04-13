@@ -5,7 +5,7 @@ This project was aimed to organize given data in order to creat a database model
 
 ## Project Roadmap and Files Repository
 
-At the beginning of the project, the sql_queries.py file was generated via SQL in order to specify queries and adjust the tables. Then, the `etl.py` file was edited due to implementing queries from the data file, and required table data were reached. Also, the `etl.ipynb` file was used to show more details about the ETL pipeline demonstration. In this manner, the `create_tables.py` was used to create and delete tables via statements in `sql_queries.py`. Finally, `test.ipynb` was run in order to the check situation of created tables. In addition, `condition_check.ipynb` file was created for ease of use mentioned script files for modelling.
+At the beginning of the project, the `sql_queries.py` file was generated via SQL in order to specify queries and adjust the tables. Then, the `etl.py` file was edited due to implementing data from the `data.zip` file, and required table data were reached. Also, the `etl.ipynb` file was used to show more details about the ETL pipeline demonstration. In this manner, the `create_tables.py` was used to create and delete tables via statements in `sql_queries.py`. Finally, `test.ipynb` was run in order to the check situation of created tables. In addition, `condition_check.ipynb` file was created for ease of use mentioned script files for modelling.
 
 
 ## Data Warehouse Design
